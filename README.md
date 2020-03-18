@@ -1,2 +1,2 @@
 # remote
-Inspired by the Covid-19 virus, the community is sharing 'Working From Home' tips
+Inspired by the Covid-19 virus, this is a community repo of 'Working From Home' tips, as a wiki.
